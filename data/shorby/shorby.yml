@@ -1,0 +1,13 @@
+name: "Shorby"
+description: "Shorby is a link-in-bio tool that builds micro landing pages for social profiles and messenger apps. It includes link retargeting, analytics, and WhatsApp integration. Freemium with paid plans."
+source_url: "https://shorby.com/"
+category: "Short Links + Bio Pages"
+tags:
+  - "freemium"
+  - "short-links"
+  - "messenger"
+  - "analytics"
+  - "instagram"
+icon_url: "https://icons.duckduckgo.com/ip3/shorby.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://shorby.com/>\n"
+updated_at: "2026-11-21 10:48"

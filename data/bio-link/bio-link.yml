@@ -1,0 +1,13 @@
+name: "Bio.link"
+description: "Bio.link is a link-in-bio tool that lets users create a simple landing page with multiple links and media blocks. It includes analytics, custom domains, and integrations with popular services. Freemium model with a free tier."
+source_url: "https://bio.link/"
+category: "Link-in-Bio SaaS"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "analytics"
+  - "custom-domain"
+  - "creator"
+icon_url: "https://icons.duckduckgo.com/ip3/bio.link.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://bio.link/>\n"
+updated_at: "2026-11-21 10:48"

@@ -1,0 +1,13 @@
+name: "Ko-fi"
+description: "Ko-fi is a creator page for receiving donations, selling memberships, and listing products or commissions. It functions as a link-in-bio storefront with no platform fees on donations. Freemium with optional Gold membership."
+source_url: "https://ko-fi.com/"
+category: "Creator Storefront Bios"
+tags:
+  - "freemium"
+  - "donations"
+  - "memberships"
+  - "creator"
+  - "shop"
+icon_url: "https://icons.duckduckgo.com/ip3/ko-fi.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://ko-fi.com/>\n"
+updated_at: "2026-11-21 10:48"

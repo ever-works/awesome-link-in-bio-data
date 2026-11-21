@@ -1,0 +1,72 @@
+- id: freemium
+  name: "Freemium"
+- id: free-plan
+  name: "Free Plan"
+- id: api
+  name: "API"
+- id: instagram
+  name: "Instagram"
+- id: tiktok
+  name: "TikTok"
+- id: creator
+  name: "Creator"
+- id: monetization
+  name: "Monetization"
+- id: email-marketing
+  name: "Email Marketing"
+- id: paid
+  name: "Paid"
+- id: digital-products
+  name: "Digital Products"
+- id: courses
+  name: "Courses"
+- id: e-commerce
+  name: "E-commerce"
+- id: analytics
+  name: "Analytics"
+- id: custom-domain
+  name: "Custom Domain"
+- id: no-code
+  name: "No-Code"
+- id: one-page
+  name: "One-Page"
+- id: templates
+  name: "Templates"
+- id: link-scheduling
+  name: "Link Scheduling"
+- id: messenger
+  name: "Messenger"
+- id: payments
+  name: "Payments"
+- id: mobile-app
+  name: "Mobile App"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: free
+  name: "Free"
+- id: linktree-alternative
+  name: "Linktree Alternative"
+- id: php
+  name: "PHP"
+- id: mini-apps
+  name: "Mini Apps"
+- id: smart-links
+  name: "Smart Links"
+- id: music
+  name: "Music"
+- id: retargeting
+  name: "Retargeting"
+- id: short-links
+  name: "Short Links"
+- id: contact-forms
+  name: "Contact Forms"
+- id: appointments
+  name: "Appointments"
+- id: donations
+  name: "Donations"
+- id: memberships
+  name: "Memberships"
+- id: shop
+  name: "Shop"

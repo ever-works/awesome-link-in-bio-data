@@ -1,0 +1,13 @@
+name: "LinkStack"
+description: "LinkStack is an open-source, self-hosted link-in-bio platform that lets users run their own Linktree alternative. It supports multiple links, themes, and basic analytics. Licensed under MIT."
+source_url: "https://github.com/LinkStackorg/LinkStack"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free"
+  - "linktree-alternative"
+  - "php"
+icon_url: "https://icons.duckduckgo.com/ip3/github.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://github.com/LinkStackorg/LinkStack>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 10:48"

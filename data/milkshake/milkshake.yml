@@ -1,0 +1,13 @@
+name: "Milkshake"
+description: "Milkshake is a mobile app for creating link-in-bio websites directly from a phone, aimed at Instagram and TikTok users. It offers card-style templates and is free to use with optional premium features. Freemium."
+source_url: "https://milkshake.app/"
+category: "Link-in-Bio SaaS"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "mobile-app"
+  - "instagram"
+  - "templates"
+icon_url: "https://icons.duckduckgo.com/ip3/milkshake.app.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://milkshake.app/>\n"
+updated_at: "2026-11-21 10:48"
