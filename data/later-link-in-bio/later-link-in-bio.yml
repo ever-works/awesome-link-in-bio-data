@@ -1,0 +1,32 @@
+name: Linkin.bio by Later
+description: Later's link-in-bio feature that lets Instagram users create a
+  clickable, shoppable landing page from their Instagram feed. It is part of
+  Later's social media marketing platform.
+source_url: https://later.com/link-in-bio/
+category: Link-in-Bio SaaS
+tags:
+  - Freemium
+  - Social Media
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Linkin.bio by Later is a link-in-bio tool integrated into Later's social media
+  scheduling platform. It converts Instagram posts into clickable links on a bio
+  landing page, supporting shoppable feeds.
+
+
+  ## Pricing Model
+
+
+  Freemium, included as part of Later's social media plans.
+
+
+  ## Deployment
+
+
+  Cloud-hosted SaaS.
+brand: Later
+images: []
+updated_at: 2026-11-22 01:19

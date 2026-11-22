@@ -1,0 +1,23 @@
+name: E-z.bio
+description: A closed-source link-in-bio service for creating bio link pages. It
+  operates as a cloud-based SaaS with free and paid options.
+source_url: https://e-z.bio/
+category: Link-in-Bio SaaS
+tags:
+  - Freemium
+featured: false
+markdown: |-
+  ## Overview
+
+  E-z.bio is a closed-source link-in-bio SaaS for creating bio link pages.
+
+  ## Pricing Model
+
+  Freemium with free and paid tiers.
+
+  ## Deployment
+
+  Cloud-hosted SaaS.
+brand: null
+images: []
+updated_at: 2026-11-22 01:19

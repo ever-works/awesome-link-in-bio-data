@@ -1,0 +1,45 @@
+name: Linkin
+description: A customizable self-hosted link tree platform that allows users to
+  create their own link-in-bio page. Built with JavaScript, this open-source
+  project provides an alternative to commercial link-in-bio services with
+  self-hosting capabilities.
+source_url: https://github.com/Linkin/linkin
+category: Open-Source & Self-Hosted
+tags:
+  - Open Source
+  - Self-Hosted
+  - JavaScript
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Linkin is a customizable self-hosted link tree platform. It enables users to
+  create their own link-in-bio page with self-hosting capabilities, serving as
+  an open-source alternative to commercial link-in-bio services.
+
+
+  ## Features
+
+
+  - Customizable link tree platform
+
+  - Self-hosted deployment
+
+  - JavaScript implementation
+
+  - Open-source alternative to commercial link-in-bio services
+
+
+  ## Deployment
+
+
+  Self-hosted.
+
+
+  ## License
+
+
+  Open source.
+brand: Linkin
+updated_at: 2026-11-22 01:19

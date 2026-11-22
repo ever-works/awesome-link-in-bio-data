@@ -1,0 +1,45 @@
+name: itsmy.fyi
+description: An open-source alternative to Linktree that lets users take control
+  of their online presence by creating a personalized link-in-bio page.
+  Self-hosted solution built with TypeScript. Open-source project hosted on
+  GitHub.
+source_url: https://github.com/itsmyfyi/itsmy.fyi
+category: Open-Source & Self-Hosted
+tags:
+  - Open Source
+  - Self-Hosted
+  - Linktree Alternative
+featured: false
+markdown: >-
+  ## Overview
+
+
+  itsmy.fyi is an open-source alternative to Linktree that enables users to take
+  control of their online presence by creating a personalized link-in-bio page
+  hosted on their own infrastructure.
+
+
+  ## Features
+
+
+  - Self-hosted link-in-bio page
+
+  - Open-source codebase
+
+  - TypeScript implementation
+
+  - Privacy-focused alternative to commercial link-in-bio services
+
+
+  ## Deployment
+
+
+  Self-hosted.
+
+
+  ## License
+
+
+  Open source.
+brand: itsmy.fyi
+updated_at: 2026-11-22 01:19

@@ -1,0 +1,29 @@
+name: Liinks
+description: A closed-source link-in-bio service for creating customizable bio
+  link pages. It is offered as a cloud-based SaaS with free and paid tiers.
+source_url: https://liinks.co/
+category: Link-in-Bio SaaS
+tags:
+  - Freemium
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Liinks is a closed-source link-in-bio SaaS for creating customizable bio link
+  pages.
+
+
+  ## Pricing Model
+
+
+  Freemium with free and paid tiers.
+
+
+  ## Deployment
+
+
+  Cloud-hosted SaaS.
+brand: null
+images: []
+updated_at: 2026-11-22 01:19
