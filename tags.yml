@@ -1,72 +1,86 @@
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: api
-  name: "API"
+  name: API
 - id: instagram
-  name: "Instagram"
+  name: Instagram
 - id: tiktok
-  name: "TikTok"
+  name: TikTok
 - id: creator
-  name: "Creator"
+  name: Creator
 - id: monetization
-  name: "Monetization"
+  name: Monetization
 - id: email-marketing
-  name: "Email Marketing"
+  name: Email Marketing
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: digital-products
-  name: "Digital Products"
+  name: Digital Products
 - id: courses
-  name: "Courses"
+  name: Courses
 - id: e-commerce
-  name: "E-commerce"
+  name: E Commerce
 - id: analytics
-  name: "Analytics"
+  name: Analytics
 - id: custom-domain
-  name: "Custom Domain"
+  name: Custom Domain
 - id: no-code
-  name: "No-Code"
+  name: No-Code
 - id: one-page
-  name: "One-Page"
+  name: One-Page
 - id: templates
-  name: "Templates"
+  name: Templates
 - id: link-scheduling
-  name: "Link Scheduling"
+  name: Link Scheduling
 - id: messenger
-  name: "Messenger"
+  name: Messenger
 - id: payments
-  name: "Payments"
+  name: Payments
 - id: mobile-app
-  name: "Mobile App"
+  name: Mobile App
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: free
-  name: "Free"
+  name: Free
 - id: linktree-alternative
-  name: "Linktree Alternative"
+  name: Linktree Alternative
 - id: php
-  name: "PHP"
+  name: PHP
 - id: mini-apps
-  name: "Mini Apps"
+  name: Mini Apps
 - id: smart-links
-  name: "Smart Links"
+  name: Smart Links
 - id: music
-  name: "Music"
+  name: Music
 - id: retargeting
-  name: "Retargeting"
+  name: Retargeting
 - id: short-links
-  name: "Short Links"
+  name: Short Links
 - id: contact-forms
-  name: "Contact Forms"
+  name: Contact Forms
 - id: appointments
-  name: "Appointments"
+  name: Appointments
 - id: donations
-  name: "Donations"
+  name: Donations
 - id: memberships
-  name: "Memberships"
+  name: Memberships
 - id: shop
-  name: "Shop"
+  name: Shop
+- id: social-media
+  name: Social Media
+- id: javascript
+  name: JavaScript
+- id: astro
+  name: Astro
+- id: tailwind-css
+  name: Tailwind CSS
+- id: creator-storefront
+  name: Creator Storefront
+- id: enterprise
+  name: Enterprise
+- id: social-media-management
+  name: Social Media Management
